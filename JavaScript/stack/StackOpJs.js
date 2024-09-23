@@ -46,5 +46,4 @@ s.push(3)
 while(!s.isEmpty()){
     console.log(s.peek());
     s.pop()
-    
 }
